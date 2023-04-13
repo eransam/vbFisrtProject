@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erans\\source\\repos\\vb-firstProject\\vb-firstProject\\vb-firstProject.vbproj": {}
+    "C:\\eran\\projects\\vb-project\\vbFisrtProject\\vb-firstProject\\vb-firstProject.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\erans\\source\\repos\\vb-firstProject\\vb-firstProject\\vb-firstProject.vbproj": {
+    "C:\\eran\\projects\\vb-project\\vbFisrtProject\\vb-firstProject\\vb-firstProject.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erans\\source\\repos\\vb-firstProject\\vb-firstProject\\vb-firstProject.vbproj",
+        "projectUniqueName": "C:\\eran\\projects\\vb-project\\vbFisrtProject\\vb-firstProject\\vb-firstProject.vbproj",
         "projectName": "vb-firstProject",
-        "projectPath": "C:\\Users\\erans\\source\\repos\\vb-firstProject\\vb-firstProject\\vb-firstProject.vbproj",
+        "projectPath": "C:\\eran\\projects\\vb-project\\vbFisrtProject\\vb-firstProject\\vb-firstProject.vbproj",
         "packagesPath": "C:\\Users\\erans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erans\\source\\repos\\vb-firstProject\\vb-firstProject\\obj\\",
+        "outputPath": "C:\\eran\\projects\\vb-project\\vbFisrtProject\\vb-firstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
